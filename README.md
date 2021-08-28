@@ -3,4 +3,4 @@ Hi there ! ![hello-there-private-from-penguins-of-madagascar](https://user-image
 
 Here is my study files for Machine Learning. I uploaded these because it may be help the other rookies :) Please dont judge me. 
 
-Thanks for visiting
+Thanks for visiting :)
