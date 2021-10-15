@@ -4,3 +4,6 @@ Hi there !! ![hello-there-private-from-penguins-of-madagascar](https://user-imag
 Here is my study files for Machine Learning. I uploaded these because it may be help the other rookies :) Please dont judge me. 
 
 Thanks for visiting :)
+
+
+PS: This link is very usefull for me. https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
